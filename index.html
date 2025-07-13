@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simon Game</title>
+     <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>SIMON GAME</h1>
+        <h2 id="game-status">Ready to test your memory?</h2>
+        
+        <div class="btn-container">
+            <div class="btn red" id="red"></div>
+            <div class="btn green" id="green"></div>
+            <div class="btn yellow" id="yellow"></div>
+            <div class="btn blue" id="blue"></div>
+            
+            <div class="center-circle">
+                <div class="level" id="level">0</div>
+                <div class="level-text">LEVEL</div>
+            </div>
+        </div>
+        
+        <button class="start-btn" id="start-btn">START GAME</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
