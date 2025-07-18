@@ -16,9 +16,9 @@ A modern web-based implementation of the classic **Simon** memory game. Test you
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo  
 
-🔗 [Play Now!](#) *(Comming soon)*
+🔗 **[Play Now!](https://simon-game-seven-blush.vercel.app/)** *(Simon Game)*  
 
 ---
 
